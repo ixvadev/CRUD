@@ -1,4 +1,3 @@
-# CRUD Nima?
 
 **CRUD** bu dasturiy ta'minot tizimlarida ma'lumotlar bilan ishlashning to'rtta asosiy operatsiyasini ifodalovchi akronim. CRUD operatsiyalari quyidagilarni o'z ichiga oladi:
 
